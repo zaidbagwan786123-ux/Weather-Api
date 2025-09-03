@@ -31,23 +31,21 @@ Here’s a screenshot of the app in action:
 
 ## 🚀 Getting Started
 
-1️⃣ Clone the repo  
+### 1️⃣ Clone the repo
 ```bash
-git clone https://github.com/zaidbagwan786123-ux/weather-app.git
-cd weather-app
-2️⃣ Install dependencies
+git clone https://github.com/zaidbagwan786123-ux/Weather-Api.git
 
+2️⃣ Install dependencies
 bash
 Copy code
 pip install PyQt5 requests
-3️⃣ Add your API key
 
+3️⃣ Add your API key
 Get a free API key from OpenWeather
 
 Open weather_app.py and replace api_key with your own key
 
 4️⃣ Run the app
-
 bash
 Copy code
 python weather_app.py
